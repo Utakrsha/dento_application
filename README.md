@@ -1,9 +1,7 @@
 # dento_application
-Small Web application 
+Small Web application
 
-Instruction:
-!st make 3 Folder
-  1.For Images
-  2.For All HTML File.
-  3.For all CSS files 
-Then Run all code 
+Instructions
+------------
+1. Navigate to the HTML directory
+2. Open any .HTML file in a web browser
